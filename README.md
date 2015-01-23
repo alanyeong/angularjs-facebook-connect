@@ -10,8 +10,7 @@ To get you started you will have to prepare the following items:
 
 ### Prerequisites
 
-You need to register your website to get a Facebook App id.
-[Facebook Developer](https://developers.facebook.com/).
+You need to register your website to get a Facebook App id from [Facebook Developer](https://developers.facebook.com/).
 
 ### Steps
 
@@ -42,4 +41,3 @@ Modules
 --------
 1. [Angular Seed](https://github.com/angular/angular-seed)
 1. [ngFacebook](https://github.com/GoDisco/ngFacebook) - by [GoDisco](http://www.godisco.net)
-1. [Tal Gleichger](http://gleichger.com/ "talgleichger") - by [GoDisco](http://www.godisco.net)
